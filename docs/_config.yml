@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+title: Test site to try a few things
+description: A collection of things.
+logo: assets/DSCF7549.JPG
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+  - about.md
